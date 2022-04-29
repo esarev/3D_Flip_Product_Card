@@ -97,4 +97,11 @@ body {
     margin-top: 5px;
     font-weight: 500;
     letter-spacing: 1px;
+    border: 2px solid #47bfce;
+}
+.card .details a:hover {
+    background: #fff;
+    color:#47bfce;
+    border: 2px solid #47bfce;
+    transition: .7s;
 }
